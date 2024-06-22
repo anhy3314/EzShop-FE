@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3be7f0e.css",
+    "main.js": "/static/js/main.15b3c21e.js",
+    "static/media/InterBold.ttf": "/static/media/InterBold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/InterMedium.ttf": "/static/media/InterMedium.3f7acfe50aad7ad68548.ttf",
+    "static/media/BeVietnamProBold.ttf": "/static/media/BeVietnamProBold.b25893558c7f1ad49e5e.ttf",
+    "static/media/BeVietnamProSemiBold.ttf": "/static/media/BeVietnamProSemiBold.65c63a507ef541b307e5.ttf",
+    "static/media/BeVietnamProMedium.ttf": "/static/media/BeVietnamProMedium.59638947379ae25296ba.ttf",
+    "static/media/BeVietnamProRegular.ttf": "/static/media/BeVietnamProRegular.48bacce26505d28b25ee.ttf",
+    "static/media/NunitoSansSemiBold.ttf": "/static/media/NunitoSansSemiBold.9c621098613423154fdf.ttf",
+    "static/media/NunitoSansBold.ttf": "/static/media/NunitoSansBold.c2711dd0be4514a4eaf6.ttf",
+    "static/media/NunitoSansRegular.ttf": "/static/media/NunitoSansRegular.a02d444a210c95569024.ttf",
+    "static/media/ManropeBold.ttf": "/static/media/ManropeBold.47f6d7143da9d8c0e480.ttf",
+    "static/media/LatoBold.ttf": "/static/media/LatoBold.636be8de934918e38ed9.ttf",
+    "static/media/JostRomanMedium.ttf": "/static/media/JostRomanMedium.763024e26b2bcbcc8404.ttf",
+    "static/media/JostRomanRegular.ttf": "/static/media/JostRomanRegular.59de2b38b1b77348c048.ttf",
+    "static/media/PublicSansSemiBold.ttf": "/static/media/PublicSansSemiBold.b66154f8b8e3376a1c1f.ttf",
+    "static/media/img_group_4133.svg": "/static/media/img_group_4133.767b63f1881309b6d993.svg",
+    "index.html": "/index.html",
+    "static/media/img_group_4128.svg": "/static/media/img_group_4128.949e7e251ee79c0b9b30.svg",
+    "static/media/img_label_social.svg": "/static/media/img_label_social.0ccedfe8dbfd1bfd0217.svg",
+    "main.d3be7f0e.css.map": "/static/css/main.d3be7f0e.css.map",
+    "main.15b3c21e.js.map": "/static/js/main.15b3c21e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3be7f0e.css",
+    "static/js/main.15b3c21e.js"
+  ]
+}
